@@ -3,7 +3,7 @@
     <router-link to="/" class="flex items-center flex-shrink-0 text-white mr-6">
       <img class="h-8 mr-4" src="favicon.png" alt="Logo" />
       <span class="font-semibold text-xl tracking-tight"
-        >SuperHero<span class="font-light">Finder</span></span
+        >Look for a Super<span class="font-light">Hero</span></span
       >
     </router-link>
   </nav>
